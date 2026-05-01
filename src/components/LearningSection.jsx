@@ -8,7 +8,7 @@ function LearningSection() {
       <div className="mx-auto grid max-w-6xl items-center gap-12 lg:grid-cols-[0.85fr_1.15fr]">
         <div className="overflow-hidden rounded-t-full rounded-b-lg bg-[#d7aa5d] shadow-[0_26px_60px_rgba(31,22,14,0.16)]">
           <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1100&q=85"
+            src="./Class.jpeg"
             alt="Teacher supporting students in class"
             className="h-[330px] w-full object-cover sm:h-[460px] lg:h-[540px]"
           />

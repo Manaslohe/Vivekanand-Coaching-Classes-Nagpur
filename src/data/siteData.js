@@ -67,16 +67,16 @@ export const branches = [
     tag: 'Head Office',
     address: 'Opposite to Sant Gadge Maharaj College, Suraj Nagar, Hingna, Nagpur - 441110',
   },
-  {
-    name: 'Wanadongri',
-    tag: 'Branch',
-    address: 'VCC branch serving students from Wanadongri and nearby areas.',
-  },
-  {
-    name: 'Butibori',
-    tag: 'Branch',
-    address: 'VCC branch serving students from Butibori and nearby areas.',
-  },
+  // {
+  //   name: 'Wanadongri',
+  //   tag: 'Branch',
+  //   address: 'VCC branch serving students from Wanadongri and nearby areas.',
+  // },
+  // {
+  //   name: 'Butibori',
+  //   tag: 'Branch',
+  //   address: 'VCC branch serving students from Butibori and nearby areas.',
+  // },
   {
     name: 'Mahajanwadi',
     tag: 'Branch',
